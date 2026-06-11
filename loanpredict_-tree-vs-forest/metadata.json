@@ -1,0 +1,5 @@
+{
+  "name": "LoanPredict: Tree vs Forest",
+  "description": "An interactive comparison of Decision Tree and Random Forest algorithms for loan approval prediction.",
+  "requestFramePermissions": []
+}
